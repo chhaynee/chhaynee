@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @chhaynee (Seak Chhaynee)
+# 👋 Hi, I’m Dane (Chhaynee Seak)
 
 ### 🧠 Who Am I?
 I'm an aspiring **Offensive Security Specialist** and current **Penetration Tester**, deeply passionate about cybersecurity, ethical hacking, and red teaming. I love diving into the internals of systems, breaking things to learn how they work, and building tools to automate security testing.
