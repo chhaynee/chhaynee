@@ -35,8 +35,8 @@ I'm an aspiring **Offensive Security Specialist** and current **Penetration Test
 
 ### 📫 How to reach me:
 - 📧 Email: `chhayneeseak@gmail.com`
-- 🔗 LinkedIn: [linkedin.com/in/chhaynee](https://linkedin.com/in/chhaynee)
-- 🐦 Twitter/X: [@chhaynee_sec](https://twitter.com/chhaynee_sec) *(if you use one)*
+- 🔗 LinkedIn: [linkedin.com/in/chhaynee](https://www.linkedin.com/in/seakchhaynee/)
+- 🐦 Twitter/X: [@chhaynee_sec](https://x.com/ChhayneeS) *(if you use one)*
 
 ---
 
