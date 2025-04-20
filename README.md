@@ -41,7 +41,8 @@ I'm an aspiring **Offensive Security Specialist** and current **Penetration Test
 ---
 
 ### 😄 Pronouns:
-  danx
+danx 
+
 ---
 
 ### ⚡ Fun fact:
